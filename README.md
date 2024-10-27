@@ -55,3 +55,33 @@ Aquesta secció mostrarà únicament els diferents **tipus de guitarres** dispon
 
   ![DAM_blog_noticies](https://github.com/user-attachments/assets/5e4d2f02-cc3f-470b-8d1c-4eb13d3f9fef)
   7. Blog i Notícies, Articles/Manteniment/Notícies
+
+
+### Wireframe - DAW "Albert"
+#### Aquest README descriu les seccions principals d'una pàgina web centrada en la venda de guitarres, així com les funcionalitats i la navegació per als usuaris. A continuació es detallen les seccions:
+
+### 1. **Pàgina d'Inici**
+#### Inclou una capçalera amb el logo de l'empresa i un menú fix amb icones (lupa, carret de la compra i perfil d'usuari) per facilitar la navegació. Al centre hi ha un text introductori i un carrusel de productes destacats amb enllaços a la secció de catàleg complet.
+![Pàgina Inici](https://github.com/albertITIC/P0_wireframe/blob/albert/image.png?raw=true)
+
+### 2. Catàleg de Productes: 
+#### Mostra totes les guitarres disponibles, amb filtres per marca, preu i tipus. Hi ha una subpàgina específica per a cada tipus de guitarra, que presenta imatges, descripció i preu.
+#### Detalls del Producte: En seleccionar una guitarra, l'usuari accedeix a una pàgina amb informació detallada (especificacions, imatges, ressenyes i preu). Aquí pot afegir els productes al carret de compra.
+![Catàleg de productes](https://github.com/albertITIC/P0_wireframe/blob/albert/image-1.png?raw=true)
+![Sub-pàgina del catàleg de productes](https://github.com/albertITIC/P0_wireframe/blob/albert/image-2.png?raw=true)
+
+
+### 3. Secció de Blogs i Notícies: 
+#### Dividida en tres columnes per mostrar articles, manteniment i notícies destacades. Cada secció té un botó per veure més contingut.
+![Blogs i notícies](https://github.com/albertITIC/P0_wireframe/blob/albert/image-3.png?raw=true)
+![Sub-pàgina dedicada dels blogs d'articles/manteniment/notícies específiques](https://github.com/albertITIC/P0_wireframe/blob/albert/image-4.png?raw=true)
+
+### 4. Iniciar Sessió i Crear Compte: 
+#### S'ofereixen formularis per iniciar sessió i crear un compte, demanant la informació essencial de l'usuari.
+![Iniciar sessió](https://github.com/albertITIC/P0_wireframe/blob/albert/image-5.png?raw=true)
+![Crear un compte nou](https://github.com/albertITIC/P0_wireframe/blob/albert/image-6.png?raw=true)
+
+
+### 5. Carret de la Compra:
+#### Els usuaris poden veure els productes al carret amb detalls (nom, preu, quantitat, subtotal) i eliminar-ne o afegir-ne més. També s'inclou una secció de facturació amb un formulari per completar les dades personals, seguit d'opcions de pagament (PayPal, Mastercard, Bizum).
+![Carret de la compra](https://github.com/albertITIC/P0_wireframe/blob/albert/image-7.png?raw=true)
